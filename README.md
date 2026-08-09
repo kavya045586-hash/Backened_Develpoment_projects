@@ -27,7 +27,21 @@ Each project is hosted in its own repository, organized here by topic for easier
 - [Spotify Clone Node.js Express API](https://github.com/kavya045586-hash/Spotify-Clone-Node.js-Express-API)  
   *Spotify clone backend built with Node.js, Express, and MongoDB.*
 
+
 ---
+## 🧪 Testing & Validation Tools
+- [Jest](https://jestjs.io/)  
+  *JavaScript testing framework for unit, integration, and API tests.*
+
+- [Supertest](https://github.com/ladjs/supertest)  
+  *Library for simulating HTTP requests to test Express APIs.*
+
+- [express-validator](https://express-validator.github.io/docs/)  
+  *Middleware for validating and sanitizing request data in Express.*
+
+- [My Jest + Supertest + express-validator Notes](https://github.com/kavya045586-hash/Backened_Develpoment_projects/blob/main/supertest_jest_express%20validator.md)  
+  *My own theoretical explanation and notes about how these three tools work together.*
+
 
 ## 🎯 Purpose
 This hub repo showcases different backend concepts:
